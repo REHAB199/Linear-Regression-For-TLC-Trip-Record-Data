@@ -16,7 +16,15 @@ The dataset contains 2 csv files:
 | --- | --- | --- |
 | `Observations` | 76487 | 64541 |
 | `Features` | 20 | 20 |
-| `Data` | - pick-up and drop-off dates/times, - pick-up and drop-off locations, - trip distances, itemized fares, - rate types, payment types, - and driver-reported passenger counts. | - pick-up and drop-off dates/times, - pick-up and drop-off locations, - trip distances, itemized fares, - rate types, payment types, - and driver-reported passenger counts. |
+| `Data` | - pick-up and drop-off dates/times,
+- pick-up and drop-off locations,
+- trip distances, itemized fares, 
+- rate types, payment types, 
+- and driver-reported passenger counts. | - pick-up and drop-off dates/times, 
+- pick-up and drop-off locations,
+- trip distances, itemized fares, 
+- rate types, payment types, 
+- and driver-reported passenger counts. |
 
 
 
@@ -38,4 +46,4 @@ to exemplify the use of linear regression in Machine Learning.
 * Sklearn for linear regression.
 
 ---
-:ninja: Ninja Team: @iamal95 , @https://github.com/REHAB199 .
+:ninja: Ninja Team: [@iamal95](https://github.com/iamal95) , [@REHAB199](https://github.com/REHAB199) .
