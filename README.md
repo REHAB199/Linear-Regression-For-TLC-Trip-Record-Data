@@ -12,6 +12,13 @@ The dataset contains 2 csv files:
 * Green trip data for January 2021
 * Green trip data for February 2021
 
+|| Green trip data for January 2021 | Green trip data for February 2021 |
+| --- | --- | --- |
+| `Observations` | 76487 | 64541 |
+| `Features` | 20 | 20 |
+| `Data` | - pick-up and drop-off dates/times, - pick-up and drop-off locations, - trip distances, itemized fares, - rate types, payment types, - and driver-reported passenger counts. | - pick-up and drop-off dates/times, - pick-up and drop-off locations, - trip distances, itemized fares, - rate types, payment types, - and driver-reported passenger counts. |
+
+
 
 ## Goals:
 * Perform EDA. 
@@ -21,7 +28,7 @@ The dataset contains 2 csv files:
   - How many times did the passengers use the cash?
   - What is the most used trip type for passengers?
   - Predict the fare amount of green taxi trip in New York City.
-  to exemplify the use of linear regression in Machine Learning.
+to exemplify the use of linear regression in Machine Learning.
 
 ## Tools:
 * Numpy and Pandas for data manipulation.
@@ -31,4 +38,4 @@ The dataset contains 2 csv files:
 * Sklearn for linear regression.
 
 ---
-Ninja Team: @iamal95 , @REHAB199 .
+:ninja: Ninja Team: @iamal95 , @https://github.com/REHAB199 .
