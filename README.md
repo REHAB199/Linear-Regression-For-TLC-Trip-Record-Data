@@ -1,5 +1,6 @@
 # Project Proposal
 #### (TLC Trip Record Data Prediction)
+---
 
 ## Description:
 This project about Green trip dataset in New York City for 2 months at 2021.
@@ -36,4 +37,4 @@ to exemplify the use of linear regression in Machine Learning.
 * Sklearn for linear regression.
 
 ---
-:ninja: Ninjas Team: :ninja: [@iamal95](https://github.com/iamal95) , :ninja: [@REHAB199](https://github.com/REHAB199) .
+Ninjas Team: :ninja: [@iamal95](https://github.com/iamal95) , :ninja: [@REHAB199](https://github.com/REHAB199) .
