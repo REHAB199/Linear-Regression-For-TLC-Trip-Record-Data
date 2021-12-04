@@ -1,4 +1,4 @@
-# TLC Trip Record Data Prediction
+# TLC Trip Record Data Prediction Documentation
 
 ## Abstract
 
@@ -13,22 +13,17 @@ This project originates from the Data Science Bootcamp (T5) to predict fare amou
 ## Data
 
 The dataset contains more than 141000 taxi rides with 20 features.
-- VendorID - A code indicating the LPEP provider that provided the record.
-- lpep_pickup_datetime - The date and time when the meter was engaged.
-- lpep_dropoff_datetime - The date and time when the meter was disengaged.
-- Passenger_count - the number of passengers in the vehicle driver entered value.
-- Trip_distance - The elapsed trip distance in miles reported by the taximeter.
-- PULocationID - TLC Taxi Zone in which the taximeter was engaged.
-- DOLocationID - TLC Taxi Zone in which the taximeter was disengaged.
-- Payment_type - A numeric code signifying how the passenger paid for the trip.
-  * 1 = Credit card
-  * 2 = Cash
-  * 3 = No charge
-  * 4 = Dispute
-  * 5 = Unknown
-  * 6 = Voided trip
+The dataset contains 2 csv files: 
+* Green trip data for January 2021
+* Green trip data for February 2021
 
-You can see more of the data description [HERE](https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_green.pdf).
+|| Green trip data for January 2021 | Green trip data for February 2021 |
+| --- | --- | --- |
+| `Observations` | 76487 | 64541 |
+| `Features` | 20 | 20 |
+| `Data` | pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. | pick-up and drop-off dates/times, pick-up and drop-off locations, trip distances, itemized fares, rate types, payment types, and driver-reported passenger counts. |
+
+You can see data description [HERE](https://www1.nyc.gov/assets/tlc/downloads/pdf/data_dictionary_trip_records_green.pdf).
 
 
 ## Algorithms
