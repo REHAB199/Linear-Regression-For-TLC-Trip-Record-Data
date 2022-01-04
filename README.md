@@ -1,4 +1,7 @@
 # (TLC Trip Record Data Prediction)
+
+![image](https://user-images.githubusercontent.com/93076431/148075610-1428cce9-9528-48e9-802a-f98b05ee72bc.png)
+
 ---
 
 ## Description:
